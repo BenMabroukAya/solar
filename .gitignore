@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+.next/
+out/
+
+# Environment files
+.env*.local
+
+# Build files
+*.log
